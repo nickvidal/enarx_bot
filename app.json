@@ -1,0 +1,18 @@
+{
+    "id": "b9970f61-06ac-46e4-ade3-3b0f0c667739",
+    "version": "1.0.0",
+    "requiredApiVersion": "^1.21.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nick Vidal",
+        "homepage": "https://github.com/nickvidal/enarx_bot",
+        "support": "https://github.com/nickvidal/enarx_bot/issues"
+    },
+    "name": "Enarx",
+    "nameSlug": "enarx",
+    "classFile": "EnarxApp.ts",
+    "description": "Enarx",
+    "implements": [
+        "IUIKitInteractionHandler"
+    ]
+}

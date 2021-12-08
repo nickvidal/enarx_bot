@@ -1,0 +1,12 @@
+{
+    "Enarx_Params": "checkin, help",
+    "Enarx_Description": "Interacts with Enarx. Type `/enarx help` for more info",
+    "Enarx_Bot_Username": "Bot Username",
+    "Enarx_Bot_Username_Description": "The username who'll send the messages",
+    "Enarx_Members_Room_Name": "Members Room Name",
+    "Enarx_Members_Room_Name_Description": "The room name for Enarx to get members from",
+    "Enarx_Post_Checkin_Room_Name": "Checkin Room Name",
+    "Enarx_Post_Checkin_Room_Name_Description": "The room name for Enarx to post checkins to",
+    "Enarx_Post_Answers_Room_Name": "Answers Room Name",
+    "Enarx_Post_Answers_Room_Name_Description": "The room name for Enarx to post answers to"
+}
